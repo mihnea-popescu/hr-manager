@@ -11,7 +11,7 @@
 - Departments list
 - Employee CRUD
 - Process CRUD
-- Application interface - manage applications for a position inside the company, as well as generate a form used for application submissions
+- Application interface - manage applications for a position inside the company. Generate a form used for application submissions
 
 ## Project uses:
 - Laravel 10
